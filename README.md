@@ -1,4 +1,4 @@
-# CalculadoraIMC
+# Calculadora IMC
 
 O que seria uma calculadora de IMC ???
 
